@@ -1,6 +1,6 @@
 "# Habit-main.github.io" 
 Runs the app in the development mode.
-Open "(https://habit-tracking-app-two.vercel.app/)" 
+Open [Hosted Link](http://44.206.229.109:8100)! 
 please passed this project (:
 
 ### Description
